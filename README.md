@@ -30,7 +30,7 @@ No fluff – just the core skills you need to start working confidently with Lin
 
 🔗 Download the PDF & Watch the Video to level up your Linux knowledge!
 
-📺 Watch the full tutorial on YouTube:
+📺 Watch the full tutorial on YouTube: https://www.youtube.com/watch?v=Pg6qZVDSvK0
 
 ---
 
